@@ -1,1 +1,1 @@
-SELECT product_name FROM products;git
+SELECT product_name FROM products;
